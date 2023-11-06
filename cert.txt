@@ -1,0 +1,2 @@
+1 metre = 100 cm
+5 kilometer = 8 miles
